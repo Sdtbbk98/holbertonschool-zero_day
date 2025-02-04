@@ -1,0 +1,3 @@
+git add .
+git pull origin update_script
+git merge main
